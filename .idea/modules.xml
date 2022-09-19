@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaKamp.iml" filepath="$PROJECT_DIR$/.idea/JavaKamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/StringsDemo/StringsDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/StringsDemo/StringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/intro/odevler/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/intro/odevler/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/intro/odevler/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/miniProjeArkadasSayilar/miniProjeArkadasSayilar.iml" filepath="$PROJECT_DIR$/intro/odevler/miniProjeArkadasSayilar/miniProjeArkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/intro/odevler/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/miniProjeMukkemmelSayi/miniProjeMukkemmelSayi.iml" filepath="$PROJECT_DIR$/intro/odevler/miniProjeMukkemmelSayi/miniProjeMukkemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/miniProjeSayiBulma/miniProjeSayiBulma.iml" filepath="$PROJECT_DIR$/intro/odevler/miniProjeSayiBulma/miniProjeSayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/miniProjeSesliHarfler/miniProjeSesliHarfler.iml" filepath="$PROJECT_DIR$/intro/odevler/miniProjeSesliHarfler/miniProjeSesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/intro/odevler/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/intro/odevler/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/variables/variables.iml" filepath="$PROJECT_DIR$/intro/odevler/variables/variables.iml" />
+    </modules>
+  </component>
+</project>

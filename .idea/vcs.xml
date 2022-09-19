@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/intro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/StringsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/arraysDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/conditionals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/datatypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/helloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/loopDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeArkadasSayilar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeAsalSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeMukkemmelSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeSayiBulma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeSesliHarfler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/multiDimensionalArrayDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/recapDemo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/recapDemo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/switchDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/variables" vcs="Git" />
+  </component>
+</project>
