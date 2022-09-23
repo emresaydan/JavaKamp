@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaKamp.iml" filepath="$PROJECT_DIR$/.idea/JavaKamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/StringsDemo/StringsDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/StringsDemo/StringsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/classes/classes.iml" filepath="$PROJECT_DIR$/intro/odevler/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/classesWithNewAttributes/classesWithNewAttributes.iml" filepath="$PROJECT_DIR$/intro/odevler/classesWithNewAttributes/classesWithNewAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/intro/odevler/conditionals/conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/intro/odevler/datatypes/datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/intro/odevler/helloWorld/helloWorld.iml" />
@@ -18,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/intro/odevler/recapDemo1/recapDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/intro/odevler/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/odevler/recapDemo_Classes/recapDemo_Classes.iml" filepath="$PROJECT_DIR$/intro/odevler/recapDemo_Classes/recapDemo_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/intro/odevler/switchDemo/switchDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/odevler/variables/variables.iml" filepath="$PROJECT_DIR$/intro/odevler/variables/variables.iml" />
     </modules>

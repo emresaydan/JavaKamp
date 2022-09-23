@@ -9,6 +9,8 @@
     <mapping directory="$PROJECT_DIR$/intro/odevler/datatypes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/helloWorld" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/loopDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler/methods2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeArkadasSayilar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeAsalSayi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/miniProjeMukkemmelSayi" vcs="Git" />
@@ -19,5 +21,9 @@
     <mapping directory="$PROJECT_DIR$/intro/odevler/recapDemo2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/switchDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/intro/odevler/variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler2/methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler2/methods2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/odevler2/variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro/oop1" vcs="Git" />
   </component>
 </project>
